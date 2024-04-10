@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   🤝  I'm open to connecting with all individuals in this field!
 
 
-<h3 align="left"><img src="https://komarev.com/ghpvc/?username=priyanka-murugan" alt="priyanka-murugan"> <br> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fpriyanka-murugan.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> </h3>
+<h3 align="left"><img src="https://komarev.com/ghpvc/?username=shamil-millette" alt="shamil-millette"> <br> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fshamil-millette.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> </h3>
 
 ### Skills 
 <!-- <p align="left">
