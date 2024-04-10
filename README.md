@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shamil Millette
 ========================================================================================================================================
 
+Data Analyst
+--------------------------
 
 *   🌍  I'm based in Brooklyn, NY
 *   ✉️  You can contact me at [shamil.millette@baruchmail.cuny.edu](mailto:shamil.millette@baruchmail.cuny.edu) or via [Linkedin](https://www.linkedin.com/in/shamilmillette-data-analyst/)
