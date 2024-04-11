@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 --------------------------
 
-*   🌍  I'm based in Brooklyn, NY
+As a versatile professional, I thrive at the intersection of data science, technology and business. In my experience at Apple I dived into the complexities of customer and product data as a Market Research Analyst, leveraging my education in statistics and quantitative modeling. Beyond my careerpath, I find joy in building dashboard applications and expanding my expertise in machine learning. I am always eager to collaborate on projects or explore potential business opportunities. Don't hesitate to reach out—I'm excited to connect and contribute to meaningful endeavors.
+
+*   🌍  I'm based in New York
 *   ✉️  You can contact me at [shamil.millette@baruchmail.cuny.edu](mailto:shamil.millette@baruchmail.cuny.edu) or via [Linkedin](https://www.linkedin.com/in/shamilmillette-data-analyst/)
 *   🧠  I’m currently learning how to create packages in R 
 *   🤝  I'm open to connecting with all individuals in this field!
@@ -27,14 +29,13 @@ Data Analyst
 
 
 
- 
-### Badges
-
-<!--<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/priyanka-murugan"><img src="https://github-readme-stats.vercel.app/api?username=shamil-millette&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shamil's GitHub stats" /></a>
-
-<a href="http://www.github.com/shamil-millette"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shamil-millette&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
-
-<div >
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=shamil-millette&count_private=true&show_icons=true&layout=compact&theme=buefy" width="400px" alt="shamil-millette">
+<div
+    <div>
+ </a>
+    </div>
+    <div style="margin-left: 20px;">
+        <h3 align="left">Badges</h3>
+        <p>&nbsp;<img align="Left" height="180em" src="https://github-readme-stats.vercel.app/api?username=shamil-millette&show_icons=true&locale=en&theme=gotham" alt="shamil-millette" 
+        <p><img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=shamil-millette&theme=gotham" alt="shamil-millette" /></p>
+    </div>
+</div>
