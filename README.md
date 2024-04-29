@@ -5,7 +5,8 @@ Data Analyst
 --------------------------
 
 As a versatile professional, I thrive at the intersection of data science, technology and business. In my experience at Apple I dived into the complexities of customer and product data as a Market Research Analyst, leveraging my education in statistics and quantitative modeling. Beyond my careerpath, I find joy in building dashboard applications and expanding my expertise in business and machine learning. I am always eager to collaborate on projects and explore potential business opportunities. Don't hesitate to reach out—I'm excited to connect and contribute to meaningful endeavors.
-
+##  Click here for [Projects](https://github.com/Shamil-Millette/Zoom-Sales-Analysis-/blob/main/README.md)
+ 
 *   🌍  I'm based in New York
 *   ✉️  You can contact me at [shamil.millette@baruchmail.cuny.edu](mailto:shamil.millette@baruchmail.cuny.edu) or via [Linkedin](https://www.linkedin.com/in/shamilmillette-data-analyst/)
 *   🧠  I’m currently learning how to create packages in R 
