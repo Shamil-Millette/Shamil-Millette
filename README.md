@@ -4,7 +4,7 @@ qHi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Data Analyst
 --------------------------
 
-As a versatile professional, I thrive at the intersection of data science, technology and business. In my tenure at Apple I delved into the intricacies of customer and product data, leveraging my education in statistics and quantitative modeling. Beyond my careerpath, I find joy in building dashboard applications and expanding my expertise in business and machine learning. I am always eager to collaborate on projects and explore potential business opportunities. Don't hesitate to reach out—I'm excited to connect and contribute to meaningful endeavors.
+As a versatile professional, I thrive at the intersection of data science, technology and business. Duribg my tenured at Apple, I delved into the intricacies of customer and product data, leveraging my education in statistics and quantitative modeling. Beyond my careerpath, I find joy in building dashboard applications and expanding my expertise in business and machine learning. I am always eager to collaborate on projects and explore potential business opportunities. Don't hesitate to reach out—I'm excited to connect and contribute to meaningful endeavors.
 ##  Click here for [Projects](https://github.com/Shamil-Millette/Zoom-Sales-Analysis-/blob/main/README.md)
  
 *   🌍  I'm based in New York
